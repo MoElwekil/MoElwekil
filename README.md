@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @MoElwekil
-- 🌱 I work at Safely Insured as a software engineer and also I build web applications on my free time at Descod Ltd
+- 🌱 I work at Arup as a software engineer and also I build web applications on my free time at Descod Ltd
 - 📫 You can reach me at https://www.linkedin.com/in/moelwekil/
 
 <!---
